@@ -1,0 +1,11 @@
+{
+    "name": "HORSE",
+    "description": "A fast HORSE",
+    "image": "https://ipfs.io/ipfs/QmcXbWMD33ro1tQYGjPUbwpJsG13omKqJXcLodW9HGBTVh?filename=horse.png",
+    "attributes": [
+        {
+            "trait_type": "speed",
+            "value": 80
+        }
+    ]
+}

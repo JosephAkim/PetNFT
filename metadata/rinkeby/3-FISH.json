@@ -1,0 +1,11 @@
+{
+    "name": "FISH",
+    "description": "A wet FISH",
+    "image": "https://ipfs.io/ipfs/QmT5DYbvAWokYkGTMUQ6D6vmQVVdQRAzDjvvBgYhZ1cEZj?filename=fish.png",
+    "attributes": [
+        {
+            "trait_type": "wet",
+            "value": 100
+        }
+    ]
+}

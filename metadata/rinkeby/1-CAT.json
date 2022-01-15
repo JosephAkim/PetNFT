@@ -1,0 +1,11 @@
+{
+    "name": "CAT",
+    "description": "A strong and silent CAT pup!",
+    "image": "https://ipfs.io/ipfs/QmfTW4a8gqRPMUP8D3Y74Cs1Tyu53yJLS9upNMJUsTFRxT?filename=cat.jpg",
+    "attributes": [
+        {
+            "trait_type": "silent",
+            "value": 70
+        }
+    ]
+}

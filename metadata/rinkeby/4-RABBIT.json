@@ -1,0 +1,11 @@
+{
+    "name": "RABBIT",
+    "description": "a creepy rabbit",
+    "image": "https://ipfs.io/ipfs/QmYx6GsYAKnNzZ9A6NvEKV9nf1VaDzJrqDR23Y8YSkebLU?filename=dog.png",
+    "attributes": [
+        {
+            "trait_type": "creepyness",
+            "value": 40
+        }
+    ]
+}
